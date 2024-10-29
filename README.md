@@ -1,8 +1,8 @@
 # Projeto
 
 Integrantes do Projeto:
-- @pedrocmmaia
-- @abreu345
+- Pedro Campello Monteiro Maia (@pedrocmmaia)
+- Gabriel Abreu (@abreu345)
 
 Programação Imperativa e Funcional - 2024.2.
 
